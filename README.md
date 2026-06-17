@@ -13,7 +13,12 @@ Målet är att använda insikterna från testerna för att förbättra och förf
 
 ## Mål för veckan:
 
-1. 
+1. Planera och genomföra användartester.
+2. Samla in och analysera testresultat.
+3. Förbättra en design baserat på användarfeedback.
+4. Ge konstruktiv feedback på andras lösningar.
+5. Använda AI för att generera design- och innehållsförslag.
+6. Reflektera kring AI:s styrkor och begränsningar inom UX/UI.
 
 
 ## Resurser
